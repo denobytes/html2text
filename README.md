@@ -3,7 +3,7 @@
 
 **html2text** is a deno powered cli tool to Convert HTML to Markdown-formatted text.
 
-built on https://github.com/zacanger/html2txt
+built on https://github.com/html-to-text/node-html-to-text
 
 inspired by https://github.com/aaronsw/html2text
 
